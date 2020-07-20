@@ -9,10 +9,10 @@
           "valideK": true
         },
         {
-          "q": "After",
+          "q": "Harry Potter",
           "info": 0,
           "limit": 5,
-          "type": "books",
+          "type": "book",
           "valid": true,
           "valideK": true
         }
