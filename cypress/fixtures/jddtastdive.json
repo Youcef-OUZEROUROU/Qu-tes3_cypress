@@ -1,0 +1,20 @@
+
+    [
+        {
+          "q": "Hulk",
+          "info": 1,
+          "limit": 4,
+          "type": "movies",
+          "valid": true,
+          "valideK": true
+        },
+        {
+          "q": "After",
+          "info": 0,
+          "limit": 5,
+          "type": "books",
+          "valid": true,
+          "valideK": true
+        }
+    ]
+
